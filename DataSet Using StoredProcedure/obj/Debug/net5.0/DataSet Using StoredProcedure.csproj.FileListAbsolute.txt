@@ -1,0 +1,57 @@
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\DataSet Using StoredProcedure.exe
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\DataSet Using StoredProcedure.deps.json
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\DataSet Using StoredProcedure.runtimeconfig.json
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\DataSet Using StoredProcedure.runtimeconfig.dev.json
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\DataSet Using StoredProcedure.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\DataSet Using StoredProcedure.pdb
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\DataSet Using StoredProcedure.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\DataSet Using StoredProcedure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\DataSet Using StoredProcedure.AssemblyInfoInputs.cache
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\DataSet Using StoredProcedure.AssemblyInfo.cs
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\DataSet Using StoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\DataSet Using StoredProcedure.csproj.CopyComplete
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\DataSet Using StoredProcedure.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\refint\DataSet Using StoredProcedure.dll
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\DataSet Using StoredProcedure.pdb
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\DataSet Using StoredProcedure.genruntimeconfig.cache
+C:\Users\This PC\source\repos\ADO.Net demo code\DataSet Using StoredProcedure\obj\Debug\net5.0\ref\DataSet Using StoredProcedure.dll
